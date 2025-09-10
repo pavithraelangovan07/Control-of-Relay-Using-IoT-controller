@@ -59,9 +59,11 @@ void loop() {
 
 ```
 ## CIRCUIT DIAGRAM:
-<img width="1722" height="980" alt="Screenshot 2025-09-10 094849" src="https://github.com/user-attachments/assets/c49215d0-22cb-47eb-a701-90ffe9384092" />
+<img width="1273" height="954" alt="Screenshot 2025-09-10 132703" src="https://github.com/user-attachments/assets/9cadd6df-5423-42d9-9a20-842f26f11dd4" />
+
 
 ## OUTPUT:
+<img width="1722" height="980" alt="Screenshot 2025-09-10 094849" src="https://github.com/user-attachments/assets/842a981f-632d-4260-a18d-e73bac427958" />
 
 ## RESULT:
 
