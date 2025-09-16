@@ -1,7 +1,7 @@
 ## NAME:PAVITHRA E
 ## REG NO:212224220072
-## EXPERIMENT:2
-# Control-of-Relay-Using-IoT-controller
+
+# EXP 2:Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
